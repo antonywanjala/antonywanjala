@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonywanjala
 - 👀 I’m interested in ... Visual Basic for Applications (VBA), Python, Java
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Visual Basic for Applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... He/Him
